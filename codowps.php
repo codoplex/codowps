@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: CODO WP Plugins
- * Plugin URI: https://github.com/junaidte14/codowps
+ * Plugin URI: https://github.com/codoplex/codowps
  * Description: Lists and filters all WordPress plugins you have developed, hosted on Codecanyon, WordPress.org, or GitHub.
  * Version: 1.0.0
  * Author: Junaid Hassan
@@ -9,7 +9,7 @@
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: codowps
- * GitHub Plugin URI: https://github.com/junaidte14/codowps
+ * GitHub Plugin URI: https://github.com/codoplex/codowps
  */
 
 if (!defined('ABSPATH')) {
@@ -19,7 +19,7 @@ if (!defined('ABSPATH')) {
 define('CODOWPS_VERSION', '1.0.0');
 define('CODOWPS_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('CODOWPS_PLUGIN_URL', plugin_dir_url(__FILE__));
-define('CODOWPS_GITHUB_REPO', 'https://api.github.com/repos/junaidte14/codowps/releases/latest');
+define('CODOWPS_GITHUB_REPO', 'https://api.github.com/repos/codoplex/codowps/releases/latest');
 
 
 // Enqueue Styles and Scripts
