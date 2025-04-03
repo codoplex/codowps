@@ -1,0 +1,4 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+You can redistribute and/or modify it under the terms of the GNU GPL v2.
