@@ -10,6 +10,7 @@
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: codowps
  * GitHub Plugin URI: https://github.com/codoplex/codowps
+ * GitHub Branch: main
  */
 
 if (!defined('ABSPATH')) {
