@@ -3,7 +3,7 @@
  * Plugin Name: CODO WP Plugins
  * Plugin URI: https://github.com/codoplex/codowps
  * Description: Lists and filters all WordPress plugins you have developed, hosted on Codecanyon, WordPress.org, or GitHub.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Junaid Hassan
  * Author URI: https://codoplex.com
  * License: GPL2
@@ -16,7 +16,7 @@ if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
 
-define('CODOWPS_VERSION', '1.0.0');
+define('CODOWPS_VERSION', '1.0.1');
 define('CODOWPS_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('CODOWPS_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('CODOWPS_GITHUB_REPO', 'https://api.github.com/repos/codoplex/codowps/releases/latest');
